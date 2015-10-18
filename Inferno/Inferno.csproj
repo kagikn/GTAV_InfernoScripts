@@ -98,6 +98,10 @@
     <Compile Include="InfernoScripts\InfernoCore\Counter\ReduceCounter.cs" />
     <Compile Include="InfernoScripts\Parupunte\ParupunteCore.cs" />
     <Compile Include="InfernoScripts\Parupunte\ParupunteScript.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\ParachuteCitizenParadise.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\ClearWantedLevel.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\DiePeds.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\HealthAndArmorHealing.cs" />
     <Compile Include="InfernoScripts\Parupunte\Scripts\Hitohanabi.cs" />
     <Compile Include="InfernoScripts\InfernoCore\Drawer\DrawingCore.cs" />
     <Compile Include="InfernoScripts\InfernoCore\Drawer\ProgressBarData.cs" />
@@ -105,6 +109,14 @@
     <Compile Include="InfernoScripts\InfernoCore\Drawer\ToastTextDrawing.cs" />
     <Compile Include="InfernoScripts\InfernoCore\Interface\ICounter.cs" />
     <Compile Include="InfernoScripts\InfernoCore\Interface\IProgressBar.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\HumanBomb.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\IncreaseWantedLevel.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\MolotovParadise.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\Owatashiki.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\PlayerInvincible.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\RepairVehicles.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\StrongVehicles.cs" />
+    <Compile Include="InfernoScripts\Parupunte\Scripts\VehiclePetrolTanksGetFire.cs" />
     <Compile Include="InfernoScripts\Player\DeathSoundEffect.cs" />
     <Compile Include="ExtensionMethods\ExtensionMethods.cs" />
     <Compile Include="InfernoScripts\InfernoCore\CoroutineSystem.cs" />

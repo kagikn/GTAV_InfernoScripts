@@ -9,6 +9,7 @@ using GTA.Native;
 
 namespace Inferno
 {
+    [ParupunteDebug(true)]
     class ArmorAndHealthSupplier : InfernoScript
     {
 
